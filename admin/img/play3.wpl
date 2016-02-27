@@ -1,0 +1,33 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7600.16667"/>
+        <meta name="ItemCount" content="20"/>
+        <author/>
+        <title>play3</title>
+    </head>
+    <body>
+        <seq>
+            <media src="D:\Multimidia\Song\list1\08 Bloody Mary.mp3" cid="{030951F5-0A59-4B57-8F53-9C479D2B881E}" tid="{E1871F17-E220-4351-83F9-BD39599DA0D3}"/>
+            <media src="D:\Multimidia\Song\list1\Alejandro-Lady Gaga.mp3" tid="{B75D3740-7FD3-4BCA-9D35-5DEE2B723803}"/>
+            <media src="D:\Multimidia\Song\list2\013.International Love - Pitbull ft. Chris Brown.mp3" tid="{1FD56F04-8D04-41F3-9C2B-2785F2D509C4}"/>
+            <media src="D:\Multimidia\Song\list2\010.We Found Love - Rihanna ft. Calvin Harris.mp3" tid="{3DCCE3A3-8855-4815-8F62-69A30057FE62}"/>
+            <media src="D:\Multimidia\Song\list1\Britney Spear - Criminal.mp3" cid="{8CC32222-387C-499D-8A9F-9630FF20F5AF}" tid="{D1FF2DDD-E06C-4A85-97DB-71089A0732AE}"/>
+            <media src="D:\Multimidia\Song\list2\004.Glad You Came - The Wanted.mp3" tid="{5EF2D6D4-AC80-423F-852F-2B323CFEDD1A}"/>
+            <media src="D:\Multimidia\Song\list1\03. read all about it (ft. emeli sande) im1.mp3" cid="{6F0B5348-49F9-4FB3-A5F9-1FD7338D655D}" tid="{44CD6777-013E-4F60-B637-B1850AD9F3D4}"/>
+            <media src="D:\Multimidia\Song\list1\Britney Spears-Three.mp3" tid="{A6F123FF-8FBE-4F1E-A3D4-B45A5D939BF3}"/>
+            <media src="D:\Multimidia\Song\list1\Katy Perry Ft.Kanye West - E.T..mp3" tid="{6B9A053C-2F8D-404A-AAFA-44111B9D206C}"/>
+            <media src="D:\Multimidia\Song\list1\Rihana feat Eminen - I Love the Way You Lie.mp3" tid="{679FBCE5-7E3F-4868-A984-8E8DC847CBB0}"/>
+            <media src="D:\Multimidia\Song\list1\The Edge Of Glory (Mikael Wills &amp; Justin Sane Remix).mp3.mp3" cid="{BEB8E16D-A476-4CF5-BFCC-A25A60EA04B3}" tid="{21F3DE45-C5C2-4DA9-B3D8-C1BAA408D103}"/>
+            <media src="D:\Multimidia\Song\list1\E.T. Katy Perry Original.mp3" tid="{AD1008A9-22B8-44E2-A678-A7040500BA18}"/>
+            <media src="D:\Multimidia\Song\list1\แอน มาแนง - 02 - ก้าวเดียว.mp3" tid="{56CC86CE-168E-42C7-8CCD-1566EF3DCCD6}"/>
+            <media src="D:\Multimidia\Song\list1\แอน มาแนง - กลับมารักกันได้ไหม.mp3" tid="{1037A99A-1927-4AF5-9CB8-97D701E6D9A0}"/>
+            <media src="D:\Multimidia\Song\list1\โบว์ลิ่ง - ดีกว่าทนคบกัน.mp3" tid="{8F785947-AABF-4577-8D9A-E9C6C2A86CA5}"/>
+            <media src="..\..\Downloads\Flavour - ถ้าเลิกกับเขา เรารักกันไหม.mp3" tid="{4D22A197-6992-4745-98CD-8E9DA68D5344}"/>
+            <media src="D:\Multimidia\Song\list2\010.We Found Love - Rihanna ft. Calvin Harris.mp3" tid="{3DCCE3A3-8855-4815-8F62-69A30057FE62}"/>
+            <media src="..\..\Downloads\ไม่รักไม่ต้อง - นิว จิ๋ว.mp3" tid="{A5EE24E4-72EC-4E4E-880E-8DCC20374209}"/>
+            <media src="..\..\..\..\downloads\ห้ามใจไม่อยู่ - โบว์ลิ่ง [Official MV].mp4"/>
+            <media src="..\..\Downloads\เขาที่เพิ่งเจอกับเธอที่มาก่อน - abnormal.mp3" tid="{EFCF6586-710E-46F5-AFE2-72C7ACB7BD3A}"/>
+        </seq>
+    </body>
+</smil>

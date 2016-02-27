@@ -1,0 +1,384 @@
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #035F8B url(images/img01.png) repeat;
+	font-family: 'Abel', sans-serif;
+	font-size: 15px;
+	color: #5B5B5B;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+	color: #222222;
+}
+
+p, ol, ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+p, ol {
+	line-height: 180%;
+}
+
+strong {
+}
+
+a {
+	color: #0000FF;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a img {
+	border: none;
+}
+
+img.border {
+}
+
+img.alignleft {
+	float: left;
+}
+
+img.alignright {
+	float: right;
+}
+
+img.aligncenter {
+	margin: 0px auto;
+}
+
+hr {
+	display: none;
+}
+
+/** WRAPPER */
+
+#wrapper {
+}
+
+.container {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+.clearfix {
+	clear: both;
+}
+
+/* Header */
+
+#header-wrapper {
+	overflow: hidden;
+	height: 100px;
+}
+
+#header {
+	width: 1200px;
+	height: 150px;
+	margin: 0 auto;
+	padding: 0px 0px;
+}
+
+/* Logo */
+
+#logo {
+	float: left;
+	width: 350px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#logo h1 {
+	padding: 40px 0px 0px 0px;
+	letter-spacing: -2px;
+	font-size: 2.2em;
+}
+
+#logo h1 a {
+	text-decoration: none;
+	text-shadow: 1px 1px 0px rgba(0,0,0,.2);
+	color: #FFFFFF;
+}
+
+/* Menu */
+
+#menu {
+	float: right;
+	width: 850px;
+}
+
+#menu ul {
+	float: right;
+	margin: 0;
+	padding: 60px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	float: left;
+}
+
+#menu a {
+	display: block;
+	padding: 0px 0px 0px 20px;
+	text-decoration: none;
+	text-align: center;
+	text-shadow: 1px 1px 0px rgba(0,0,0,.2);
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	color: #81AFC5;
+}
+
+#menu a:hover, #menu .current_page_item a {
+	text-decoration: none;
+	color: #C2EAFC;
+}
+
+#menu .current_page_item a {
+	color: #C2EAFC;
+}
+
+/* Page */
+
+#page-wrapper {
+	overflow: hidden;
+}
+#page-wrapper-2 {
+	overflow: hidden;
+        padding: 20px 30px 20px 30px;
+	background: #056796;
+        color : #fff;
+}
+
+
+#page-2 {
+	overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+}
+#page{
+	overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#page a {
+	color: #FFFFFF;
+}
+
+/** CONTENT */
+
+#content {
+	float: left;
+	width: 650px;
+	padding: 60px 30px 0px 0px;
+	color: #FFFFFF;
+}
+
+#content h2 {
+	letter-spacing: -1px;
+	font-size: 36px;
+	color: #FFFFFF;
+}
+
+#content .subtitle {
+	padding: 0px 0px 30px 0px;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	color: #81AFC5;
+}
+
+/** SIDEBAR */
+
+#sidebar {
+	float: right;
+	width: 260px;
+	padding: 20px 30px 20px 30px;
+	background: #056796;
+}
+
+#sidebar h2 {
+	padding: 0px 0px 30px 0px;
+	letter-spacing: -1px;
+	font-size: 2em;
+	color: #FFFFFF;
+}
+
+/* Footer */
+
+#footer {
+	height: 100px;
+	margin: 0 auto;
+	padding: 50px 0px 15px 0px;
+	font-family: 'Abel', sans-serif;
+}
+
+#footer p {
+	margin: 0;
+	letter-spacing: 1px;
+	line-height: normal;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #81AABE;
+}
+
+#footer a {
+	color: #81AABE;
+}
+
+/* Three Column Footer Content */
+
+#footer-wrapper {
+	background: url(images/img02.png) repeat;
+}
+
+#footer-content {
+	overflow: hidden;
+	width: 1000px;
+	margin: 0px auto;
+	padding: 50px 0px 50px 0px;
+	color: #717171;
+}
+
+#footer-content a {
+}
+
+#footer-content h2 {
+	margin: 0px;
+	padding: 0px 0px 30px 0px;
+	letter-spacing: -1px;
+	font-size: 26px;
+	color: #262626;
+}
+
+#footer-content h2 span {
+	color: #C4303E;
+}
+
+#footer-content #fbox1 {
+	float: left;
+	width: 320px;
+	margin-right: 20px;
+}
+
+#footer-content #fbox2 {
+	float: left;
+	width: 320px;
+}
+
+#footer-content #fbox3 {
+	float: right;
+	width: 320px;
+}
+
+#footer-content .boxname {
+	float: left;
+	width: 320px;
+	margin-right: 20px;
+}
+#footer-content .boxdescription {
+	float: left;
+	width: 480px;
+}
+#footer-content .boxreserve{
+	float: right;
+	width: 180px;
+}
+#footer-content .boxdescription .name {	
+	font-size: 24px;
+	color: #262626;
+}
+#footer-content .boxdescription .caption {	
+	font-size: 21px;
+	color: #262626;
+}
+
+/* Banner Style */
+
+#banner-wrapper {
+	overflow: hidden;
+	height: 350px;
+	background: url(images/img02.png) repeat;
+}
+
+#banner {
+	overflow: hidden;
+	width: 1000px;
+	height: 350px;
+	margin: 0px auto;
+	background: url(images/img03.jpg) no-repeat left top;
+	z-index: -1;
+}
+
+/* Button Style */
+
+.button-style {
+	display: inline-block;
+	margin-top: 30px;
+	padding: 7px 30px;
+	background: #AD1F35;
+}
+
+.button-style a {
+	letter-spacing: 1px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+/* List Style */
+
+ul.style1 {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+ul.style1 li {
+	padding: 20px 0px 20px 0px;
+	border-top: 1px solid #2481AB;
+}
+
+ul.style1 a {
+	text-decoration: none;
+	color: #81AFC5;
+}
+
+ul.style1 a:hover {
+	text-decoration: underline;
+	color: #E0F5FF;
+}
+
+ul.style1 .first {
+	padding-top: 0px;
+	border-top: none;
+}
+#companyname
+{
+    font-style: italic;
+    color: #fff;
+    text-transform: none;
+}
