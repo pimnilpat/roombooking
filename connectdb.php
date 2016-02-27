@@ -1,8 +1,8 @@
 <?php
 $server = 'localhost';
-$user = 'root';
-$password='password';
-$dbname='roombooking';
+$user = '';
+$password='';
+$dbname='';
 $link=mysql_connect($server, $user, $password) or die(mysql_error());
 mysql_select_db($dbname) or die(mysql_error());
 mysql_query("SET character_set_results=utf8");
